@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8); /* Fondo blanco semi-transparente para legibilidad */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px; /* Agregar márgenes arriba y abajo */
+    width: 90%; /* Hacer que el contenedor se ajuste mejor a la pantalla */
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.hidden {
+    display: none;
+}
