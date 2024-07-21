@@ -17,6 +17,8 @@ body {
     background: rgba(255, 255, 255, 0.8); /* Fondo blanco semi-transparente para legibilidad */
     padding: 20px;
     border-radius: 10px;
+    margin: 20px; /* Agregar márgenes arriba y abajo */
+    width: 90%; /* Hacer que el contenedor se ajuste mejor a la pantalla */
 }
 
 button {
