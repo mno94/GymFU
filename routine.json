@@ -1,0 +1,33 @@
+{
+    "day1": [
+        { "name": "Flexiones cerradas", "reps": "10", "sets": "3", "weight": "0" },
+        { "name": "Press banco declinado", "reps": "12", "sets": "3", "weight": "10" },
+        { "name": "Press con W", "reps": "12", "sets": "2", "weight": "10" },
+        { "name": "Press pecho en landmine", "reps": "12", "sets": "3", "weight": "20" },
+        { "name": "Dorsales en landmine", "reps": "12", "sets": "3", "weight": "20" },
+        { "name": "Jalon dorsal", "reps": "12/10/08", "sets": "3", "weight": "40" },
+        { "name": "Remo cerrado", "reps": "12/10/08", "sets": "3", "weight": "40" },
+        { "name": "Curl biceps banco scott", "reps": "10", "sets": "3", "weight": "10" },
+        { "name": "Apertura pecho con mancuerna", "reps": "12", "sets": "3", "weight": "10" }
+    ],
+    "day2": [
+        { "name": "Sentadillas landmine", "reps": "12", "sets": "3", "weight": "20" },
+        { "name": "Sentadilla con mancuerna y estocadas", "reps": "12", "sets": "3", "weight": "10" },
+        { "name": "Peso muerto", "reps": "12", "sets": "3", "weight": "20" },
+        { "name": "Hack", "reps": "10/08/06", "sets": "3", "weight": "15" },
+        { "name": "Gemelos hack", "reps": "12", "sets": "3", "weight": "15" },
+        { "name": "Camilla isquios", "reps": "12", "sets": "3", "weight": "15" },
+        { "name": "Hip trust maquina", "reps": "10", "sets": "3", "weight": "0" },
+        { "name": "Camilla cuadriceps", "reps": "10", "sets": "3", "weight": "50" }
+    ],
+    "day3": [
+        { "name": "W al menton", "reps": "12", "sets": "3", "weight": "10" },
+        { "name": "Press frances", "reps": "12", "sets": "3", "weight": "0" },
+        { "name": "Vuelos combinados", "reps": "12", "sets": "3", "weight": "10" },
+        { "name": "Pull over", "reps": "12", "sets": "3", "weight": "0" },
+        { "name": "Posteriores maquina", "reps": "12", "sets": "3", "weight": "0" },
+        { "name": "Mariposa", "reps": "12", "sets": "3", "weight": "0" },
+        { "name": "Press plano con barra", "reps": "12", "sets": "3", "weight": "0" },
+        { "name": "Martillo con mancuernas", "reps": "12", "sets": "3", "weight": "0" }
+    ]
+}
